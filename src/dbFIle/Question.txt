@@ -1,0 +1,7 @@
+以下哪个是java的基本数据类型?<br>   A.String<br>   B.Integer<br>   C.boolean<br>   D.Math#C
+以下哪个是java的引用数据类型?<br>   A.String<br>   B.int<br>   C.boolean<br>   D.char#A
+以下哪个不是Object类中的方法?<br>   A.equals<br>   B.hashcode<br>   C.toString<br>   D.compareTo#D
+以下哪个不是String类中的方法?<br>   A.charAt<br>   B.reverse<br>   C.replace<br>   D.indexOf#B
+以下哪个是java中的非法标识符?<br>   A.variable<br>   B.variable2<br>   C.%variable<br>   D._variable#C
+右边的图标是那种语言的logo？<br>   A.C语言<br>   B.Java<br>   C.PHP<br>   D.GO#B#Java.jpg
+右边的图标哪个是哪个服务器的logo？<br>   A.JBoss<br>   B.Oracle<br>   C.Jetty<br>   D.TomCat#D#TomCat.jpg
